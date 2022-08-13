@@ -36,14 +36,14 @@
 • Decision Tree: 0.978<br/>
 • **Random Forest: 0.994**<br/>
 • Voting (Decision Tree + Multinomial Naive Bayes): 0.979<br/>
-![matrix](readme-resources/cm.png)<br/>
+![matrix](readme-resources/conf.png)<br/>
 _**Note: Evaluation scores are obtained using cross validation.**_
 
 ## Model Deployment
-![Prediction](readme-resources/heroku1.PNG)
-![Prediction](readme-resources/heroku2.PNG)
-![Prediction](readme-resources/heroku3.PNG)
-![Prediction](readme-resources/heroku4.PNG)
+![Prediction](readme-resources/heroku1.png)
+![Prediction](readme-resources/heroku2.png)
+![Prediction](readme-resources/heroku3.png)
+![Prediction](readme-resources/heroku4.png)
 
 • Repository Link: [ https://github.com/anujvyas/Spam-SMS-Classifier-Deployment](https://github.com/JSPurewal/Spam_SMS_Detection)<br />
 • Web App Link: https://spamsmsdetection0101.herokuapp.com/<br/>
